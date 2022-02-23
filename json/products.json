@@ -1,0 +1,866 @@
+[
+    {
+        "id": 1,
+        "type": "TV",
+        "name": "LG G1 65 inch 4K OLED65G1PSA TV",
+        "brand": "LG",
+        "madein": "Indonesia",
+        "img":"/OLED65G1PSA.jpg",
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id1.docx",
+        "details":[
+            {
+                "d1":"OLED Evo 4K",
+                "d2":"8.3Million Self-Lit Pixels",
+                "d3":"Gallery Design",
+                "d4":"a9 Gen4 AI Processor 4K",
+                "d5":"ThinQ AI",
+                "d6":"GSYNC/AMD Freesync/VRR"
+            }
+        ],    
+        "price": 3999,
+        "date": "2021",
+        "insurance": "18 months"
+    },
+    {
+        "id": 2,
+        "type": "TV",
+        "name": "LG 75 inch 8K 75QNED95SPA TV",
+        "brand": "LG",
+        "madein": "Thailand",
+        "img":"/75QNED95SPA.jpg",  
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id2.docx",
+        "details":[
+            {
+                "d1":"Mini LED display",
+                "d2":"Quantum NanoCell Color Technology",
+                "d3":"Available in 86-inch",
+                "d4":"LG α9 Gen 4 Intelligent Processor 8K",
+                "d5":"ThinQ AI",
+                "d6":"Dolby Vision | Dolby Atmos"
+            }
+        ],    
+        "price": 699,
+        "date": "2020",
+        "insurance": "12 months"
+    },
+    {
+        "id": 3,
+        "type": "TV",
+        "name": "LG 55 inch 55UP7800PSB TV",
+        "brand": "LG",
+        "madein": "Viet Nam",
+        "img":"/55UP7800PSB.jpg",  
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id3.docx",
+        "details":[
+            {
+                "d1":"Quad Core Processor 4K",
+                "d2":"4K Upscaling",
+                "d3":"AI ThinQ",
+                "d4":"Game Optimizer",
+                "d5":"HGiG",
+                "d6":"FILMMAKER MODE"
+            }
+        ],    
+        "price": 839,
+        "date": "2020",
+        "insurance": "24 months"
+    },
+    {
+        "id": 4,
+        "type": "TV",
+        "name": "LG CX 77 inch 4K OLED77CXPPA TV",
+        "brand": "LG",
+        "madein": "Indonesia",
+        "img":"/OLED77CXPPA.jpg",  
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id4.docx",
+        "details":[
+            {
+                "d1":"SELF-LIT LG OLED",
+                "d2":"α9 Gen3 AI Processor 4K",
+                "d3":"AI ThinQ",
+                "d4":"True Cinema Experience",
+                "d5":"Unlimited Entertainment",
+                "d6":"Dolby Vision | Dolby Atmos"
+            }
+        ],    
+        "price": 769,
+        "date": "2021",
+        "insurance": "12 months"
+    },
+    {
+        "id": 5,
+        "type": "TV",
+        "name": "Toshiba 49 inch 49U6750, 4K Ultra HD",
+        "brand": "Toshiba",
+        "madein": "Viet Nam",
+        "img":"/49U6750.png",  
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id5.docx",
+        "details":[
+            {
+                "d1":"4K Ultra HD (3840x2160px)",
+                "d2":"CEVO 4K ENGINE",
+                "d3":"Screen Mirroring",
+                "d4":"True Cinema Experience",
+                "d5":"Unlimited Entertainment",
+                "d6":"Dolby Digital Plus"
+            }
+        ],    
+        "price": 599,
+        "date": "2020",
+        "insurance": "18 months"
+    },
+    {
+        "id": 6,
+        "type": "TV",
+        "name": "Toshiba 55 inch 55L3750, Full HD",
+        "brand": "Toshiba",
+        "madein": "Viet Nam",
+        "img":"/55L3750.jpg",  
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id6.docx",
+        "details":[
+            {
+                "d1":"LED",
+                "d2":"Essential PQ Technology",
+                "d3":"Full HD (1920 x 1080px)",
+                "d4":"DVB-T2",
+                "d5":"Unlimited Entertainment",
+                "d6":"Dolby Digital Plus, DTS Surround"
+            }
+        ],    
+        "price": 569,
+        "date": "2017",
+        "insurance": "12 months"
+    },
+    {
+        "id": 7,
+        "type": "TV",
+        "name": "Toshiba 43 inch 43U6750, 4K Ultra HD",
+        "brand": "Toshiba",
+        "madein": "Viet Nam",
+        "img":"/43U6750.png",  
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id7.docx",
+        "details":[
+            {
+                "d1":"4K Ultra HD (3840x2160px)",
+                "d2":"CEVO 4K ENGINE",
+                "d3":"Screen Mirroring",
+                "d4":"True Cinema Experience",
+                "d5":"Unlimited Entertainment",
+                "d6":"Dolby Digital Plus"
+            }
+        ],    
+        "price": 469,
+        "date": "2020",
+        "insurance": "18 months"
+    },
+    {
+        "id": 8,
+        "type": "TV",
+        "name": "Smart Tivi TOSHIBA 4K 58 Inch 58U7880VN",
+        "brand": "Toshiba",
+        "madein": "Viet Nam",
+        "img":"/58U7880VN.jpg",  
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id8.docx",
+        "details":[
+            {
+                "d1":"Smart LED Ultra HD 4K",
+                "d2":"4K HDR, Color Re-master PRO, 4K Resolution+, Super Contrast Booster, MPEG",
+                "d3":"ARM+ 800",
+                "d4":"Android",
+                "d5":"Unlimited Entertainment",
+                "d6":"Dolby Digital Plus"
+            }
+        ],    
+        "price": 1049,
+        "date": "2019",
+        "insurance": "24 months"
+    },
+    {
+        "id": 9,
+        "type": "TV",
+        "name": "Smart Tivi QLED 4K 65 inch Samsung QA65Q65A",
+        "brand": "Samsung",
+        "madein": "Viet Nam",
+        "img":"/QA65Q65A.jpg",  
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id9.docx",
+        "details":[
+            {
+                "d1":"Ultra HD 4K",
+                "d2":"TizenOS 6.0",
+                "d3":"Quantum 4K Lite",
+                "d4":"Ambient ModeBrightness/Color Detection, Motion Xcelerator Turbo, Auto Low Latency Mode (ALLM), HDR10+, Quantum Dot, Quantum HDR, Super Ultra Wide Game View & Game Bar, Supreme UHD Dimming",
+                "d5":"Q-Symphony + OTS Lite",
+                "d6":"SmartThings"
+            }
+        ],    
+        "price": 1499,
+        "date": "2021",
+        "insurance": "24 months"
+    },
+    {
+        "id": 10,
+        "type": "TV",
+        "name": "Smart Tivi Samsung 4K 50 inch UA50AU8100",
+        "brand": "Samsung",
+        "madein": "Viet Nam",
+        "img":"/UA50AU8100.jpg",  
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id10.docx",
+        "details":[
+            {
+                "d1":"Ultra HD 4K",
+                "d2":"TizenOS 6.0",
+                "d3":"Quantum 4K Lite",
+                "d4":"HDR10+, Auto Low Latency Mode (ALLM), UHD Dimming, Dynamic Crystal Color, Contrast Enhancer, Crystal 4K, Motion Xcelerator, Auto Motion Plus, Ambient Mode",
+                "d5":"Q-Symphony + OTS Lite",
+                "d6":"SmartThings"
+            }
+        ],    
+        "price": 799,
+        "date": "2021",
+        "insurance": "24 months"
+    },
+    {
+        "id": 11,
+        "type": "TV",
+        "name": "Smart Tivi Samsung 4K 55 inch 55TU6900",
+        "brand": "Samsung",
+        "madein": "Viet Nam",
+        "img":"/55TU6900.jpg",  
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id11.docx",
+        "details":[
+            {
+                "d1":"Ultra HD 4K",
+                "d2":"TizenOS 6.0",
+                "d3":"Crystal 4K",
+                "d4":"Motion Xcelerator, HDR10+, Dynamic Crystal Color, UHD Dimming, PurColor",
+                "d5":"Adaptive Sound",
+                "d6":"SmartThings"
+            }
+        ],    
+        "price": 769,
+        "date": "2020",
+        "insurance": "18 months"
+    },
+    {
+        "id": 12,
+        "type": "TV",
+        "name": "Smart Tivi QLED 4K 55 inch Samsung QA55Q70A",
+        "brand": "Samsung",
+        "madein": "Viet Nam",
+        "img":"/QA55Q70A.jpg",  
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id12.docx",
+        "details":[
+            {
+                "d1":"Ultra HD 4K",
+                "d2":"TizenOS 6.0",
+                "d3":"Quantum 4K AI",
+                "d4":"HDR10+, Auto Low Latency Mode (ALLM), Supreme UHD Dimming, Quantum HDR, Quantum Dot, AIAdaptive Picture, Motion Xcelerator Turbo+, Wide Viewing Angle, FreeSync Premium Pro, Game Motion Plus, Ambient Mode+, Super Ultra Wide Game View & Game Bar",
+                "d5": "OTS Lite, SpaceFit Sound, AVA, Q-Symphony",
+                "d6":"SmartThings"
+            }
+        ],    
+        "price": 1299,
+        "date": "2021",
+        "insurance": "24 months"
+    },
+    {
+        "id": 13,
+        "type": "Washer",
+        "name": "Toshiba inverter TWD-BH90W4V (SK)",
+        "brand": "Toshiba",
+        "madein": "China",
+        "img":"/TWD-BH90W4V.jpg",
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id13.docx",
+        "details":[
+            {
+                "d1":"Front-load",
+                "d2":"8kg",
+                "d3":"H/W/D (85/59.5/65cm)",
+                "d4":"Inverter",
+                "d5":"1400rpm",
+                "d6":"Stainless steel"  
+            }
+        ],
+        "price": 1099,
+        "date": "2021",
+        "insurance": "24 months"
+    },
+    {
+        "id": 14,
+        "type": "Washer",
+        "name": "Toshiba Inverter 15 kg AW-DUG1600WV (SK)",
+        "brand": "Toshiba",
+        "madein": "Thailand",
+        "img":"/AW-DUG1600WV.jpg",
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id14.docx",
+        "details":[
+            {
+                "d1":"Top-load",
+                "d2":"15kg",
+                "d3":"H/W/D (106.5/65/66cm)",
+                "d4":"Inverter",
+                "d5":"700rpm",
+                "d6":"Stainless steel"  
+            }
+        ],
+        "price": 599,
+        "date": "2021",
+        "insurance": "18 months"
+    },
+    {
+        "id": 15,
+        "type": "Washer",
+        "name": "Toshiba Inverter 9.5 Kg TW-BK105S3V(SK)",
+        "brand": "Toshiba",
+        "madein": "Thailand",
+        "img":"/TW-BK105S3V.png",
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id15.docx",
+        "details":[
+            {
+                "d1":"Front-load",
+                "d2":"9.5kg",
+                "d3":"H/W/D (85/59.5/60.5cm)",
+                "d4":"Inverter",
+                "d5":"1200rpm",
+                "d6":"Stainless steel"  
+            }
+        ],
+        "price": 419,
+        "date": "2020",
+        "insurance": "12 months"
+    },
+    {
+        "id": 16,
+        "type": "Washer",
+        "name": "Toshiba Inverter 10.5 Kg TW-BK115G4V (MG)",
+        "brand": "Toshiba",
+        "madein": "China",
+        "img":"/BK115G4V.jpg",
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id16.docx",
+        "details":[
+            {
+                "d1":"Front-load",
+                "d2":"10.5kg",
+                "d3":"H/W/D (85/59.5/64.7cm)",
+                "d4":"Inverter",
+                "d5":"1400rpm",
+                "d6":"Stainless steel"  
+            }
+        ],
+        "price": 549,
+        "date": "2020",
+        "insurance": "18 months"
+    },
+    {
+        "id": 17,
+        "type": "Washer",
+        "name": "LG Inverter 10.5 kg FV1450S2B",
+        "brand": "LG",
+        "madein": "Indonesia",
+        "img":"/FV1450S2B.jpg",
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id17.docx",
+        "details":[
+            {
+                "d1":"Front-load",
+                "d2":"10.5kg",
+                "d3":"H/W/D (85/59.3/62cm)",
+                "d4":"Intello DD, Steam+, TurboWash",
+                "d5":"1400rpm",
+                "d6":"SmartThinQ"  
+            }
+        ],
+        "price": 869,
+        "date": "2019",
+        "insurance": "12 months"
+    },
+    {
+        "id": 18,
+        "type": "Washer",
+        "name": "LG Inverter 10.5 kg FV1450H2B",
+        "brand": "LG",
+        "madein": "Thailand",
+        "img":"/FV1450H2B.jpg",
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id18.docx",
+        "details":[
+            {
+                "d1":"Front-load, Dryer",
+                "d2":"10.5kg",
+                "d3":"H/W/D (85/59.3/62cm)",
+                "d4":"Intello DD, Steam+, TurboWash",
+                "d5":"1400rpm",
+                "d6":"SmartThinQ, Smart Diagnosis"  
+            }
+        ],
+        "price": 1199,
+        "date": "2019",
+        "insurance": "18 months"
+    },
+    {
+        "id": 19,
+        "type": "Washer",
+        "name": "LG Inverter 19 kg TH2519SSAK",
+        "brand": "LG",
+        "madein": "Viet Nam",
+        "img":"/TH2519SSAK.jpg",
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id19.docx",
+        "details":[
+            {
+                "d1":"Top-load",
+                "d2":"19kg",
+                "d3":"H/W/D (102/63.2/67cm)",
+                "d4":"Steam, TurboWash",
+                "d5":"950rpm",
+                "d6":"SmartThinQ, Stainless Steel"  
+            }
+        ],
+        "price": 839,
+        "date": "2019",
+        "insurance": "18 months"
+    },
+    {
+        "id": 20,
+        "type": "Washer",
+        "name": "LG Inverter 15 Kg F2515STGW",
+        "brand": "LG",
+        "madein": "Viet Nam",
+        "img":"/F2515STGW.jpg",
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id20.docx",
+        "details":[
+            {
+                "d1":"Front-load",
+                "d2":"15kg",
+                "d3":"H/W/D (94/64.5/77cm)",
+                "d4":"Steam+, TurboWash, AI",
+                "d5":"1000rpm",
+                "d6":"SmartThinQ, Twin Wash Mini, Stainless Steel"  
+            }
+        ],
+        "price": 1399,
+        "date": "2019",
+        "insurance": "18 months"
+    },
+    {
+        "id": 21,
+        "type": "Washer",
+        "name": "Samsung AI Inverter 14kg WD14TP44DSB/SV",
+        "brand": "Samsung",
+        "madein": "Viet Nam",
+        "img":"/WD14TP44DSB.jpg",
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id21.docx",
+        "details":[
+            {
+                "d1":"Front-load",
+                "d2":"14kg",
+                "d3":"H/W/D (85/60/65cm)",
+                "d4":"AI Dispenser, AI Wash, Airwash, AI control, Eco Bubble, Hygiene Steam, QuickDrive, VRT Plus™",
+                "d5":"1400rpm",
+                "d6":"Stainless Steel"  
+            }
+        ],
+        "price": 949,
+        "date": "2021",
+        "insurance": "18 months"
+    },
+    {
+        "id": 22,
+        "type": "Washer",
+        "name": "Samsung Inverter 10kg WW10TA046AE/SV",
+        "brand": "Samsung",
+        "madein": "Viet Nam",
+        "img":"/WW10TA046AE.jpg",
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id22.docx",
+        "details":[
+            {
+                "d1":"Front-load",
+                "d2":"10kg",
+                "d3":"H/W/D (85/60/55cm)",
+                "d4":"Eco Bubble, Hygiene Steam, VRT Plus ™",
+                "d5":"1400rpm",
+                "d6":"Stainless Steel"  
+            }
+        ],
+        "price": 599,
+        "date": "2021",
+        "insurance": "24 months"
+    },
+    {
+        "id": 23,
+        "type": "Washer",
+        "name": "Samsung AI AddWash Inverter 12kg WW12TP94DSB/SV",
+        "brand": "Samsung",
+        "madein": "Viet Nam",
+        "img":"/WW12TP94DSB.jpg",
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id23.docx",
+        "details":[
+            {
+                "d1":"Front-load",
+                "d2":"12kg",
+                "d3":"H/W/D (85/60/65cm)",
+                "d4":"AI Dispenser, AI Wash, AI control, Eco Bubble, Digital Inverter, Hygiene Steam, QuickDrive, VRT Plus ™",
+                "d5":"1400rpm",
+                "d6":"Stainless Steel"  
+            }
+        ],
+        "price": 899,
+        "date": "2021",
+        "insurance": "18 months"
+    },
+    {
+        "id": 24,
+        "type": "Washer",
+        "name": "Samsung Inverter 21 kg WD21T6500GV/SV",
+        "brand": "Samsung",
+        "madein": "Viet Nam",
+        "img":"/WD21T6500GV.jpg",
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id24.docx",
+        "details":[
+            {
+                "d1":"Front-load, Dryer",
+                "d2":"21kg washing, 12kg drying",
+                "d3":"H/W/D (98.4/68.6/79.6cm)",
+                "d4":"Bubble Soak, VRT Plus ™, Hygiene Steam, QuickDrive, AI Dispenser, SmartThings, AI control, Airwash, Eco Bubble",
+                "d5":"1000rpm",
+                "d6":"Stainless Steel"  
+            }
+        ],
+        "price": 1499,
+        "date": "2021",
+        "insurance": "18 months"
+    },
+    {
+        "id": 25,
+        "type": "Refrigerator",
+        "name": "Samsung Inverter 647L RS62R5001M9/SV",
+        "brand": "Samsung",
+        "madein": "China",
+        "img":"/RS62R5001M9.jpg",
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id25.docx",
+        "details":[
+            {
+                "d1":"Side by side",
+                "d2":"647 litres",
+                "d3":"H/W/D (178/91.2/71.6cm)",
+                "d4":"Inverter",
+                "d5":"Twin Cooling",
+                "d6":"Stainless steel"  
+            }
+        ],
+        "price": 749,
+        "date": "2019",
+        "insurance": "18 months"
+    },
+    {
+        "id": 26,
+        "type": "Refrigerator",
+        "name": "Samsung Inverter 319L RT32K5932BY/SV",
+        "brand": "Samsung",
+        "madein": "Thailand",
+        "img":"/RT32K5932BY.jpg",
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id26.docx",
+        "details":[
+            {
+                "d1":"Top-freezer",
+                "d2":"319 litres",
+                "d3":"H/W/D (171.5/60/65.5cm)",
+                "d4":"Inverter",
+                "d5":"Twin Cooling Plus",
+                "d6":"Stainless steel"  
+            }
+        ],
+        "price": 549,
+        "date": "2020",
+        "insurance": "12 months"
+    },
+    {
+        "id": 27,
+        "type": "Refrigerator",
+        "name": "Samsung Inverter 360L RT35K5982BS/SV ",
+        "brand": "Samsung",
+        "madein": "Viet Nam",
+        "img":"/RT35K5982BS.jpg",
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id27.docx",
+        "details":[
+            {
+                "d1":"Top-freezer",
+                "d2":"360 litres",
+                "d3":"H/W/D (171.5/67.5/66.8cm)",
+                "d4":"Digital Inverter",
+                "d5":"Twin Cooling Plus",
+                "d6":"Stainless steel"  
+            }
+        ],
+        "price": 629,
+        "date": "2021",
+        "insurance": "18 months"
+    },
+    {
+        "id": 28,
+        "type": "Refrigerator",
+        "name": "Samsung Inverter 647L RS62R5001B4/SV",
+        "brand": "Samsung",
+        "madein": "China",
+        "img":"/RS62R5001B4.jpg",
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id28.docx",
+        "details":[
+            {
+                "d1":"Side by side",
+                "d2":"647 litres",
+                "d3":"H/W/D (178/91.2/71.6cm)",
+                "d4":"Digital Inverter",
+                "d5":"Twin Cooling Plus",
+                "d6":"Stainless steel"  
+            }
+        ],
+        "price": 899,
+        "date": "2019",
+        "insurance": "24 months"
+    },
+    {
+        "id": 29,
+        "type": "Refrigerator",
+        "name": "LG Inverter 613L GR-B247JDS",
+        "brand": "LG",
+        "madein": "China",
+        "img":"/GR-B247JDS.jpg",
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id29.docx",
+        "details":[
+            {
+                "d1":"Side by side",
+                "d2":"613 litres",
+                "d3":"H/W/D (178/91.5/71.5cm)",
+                "d4":"Linear Inverter",
+                "d5":"Fresh Zone",
+                "d6":"Nano Carbon"  
+            }
+        ],
+        "price": 919,
+        "date": "2017",
+        "insurance": "12 months"
+    },
+    {
+        "id": 30,
+        "type": "Refrigerator",
+        "name": "LG Inverter 601L GR-D247JDS",
+        "brand": "LG",
+        "madein": "Thailand",
+        "img":"/GR-D247JDS.jpg",
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id30.docx",
+        "details":[
+            {
+                "d1":"Side by side",
+                "d2":"601 litres",
+                "d3":"H/W/D (178.2/91.2/73.8cm)",
+                "d4":"Linear Inverter",
+                "d5":"Fresh Zone",
+                "d6":"Moist Balance Crisper"  
+            }
+        ],
+        "price": 1469,
+        "date": "2019",
+        "insurance": "18 months"
+    },
+    {
+        "id": 31,
+        "type": "Refrigerator",
+        "name": "LG Inverter InstaView Door-in-Door 601L GR-X247MC",
+        "brand": "LG",
+        "madein": "Viet Nam",
+        "img":"/GR-X247MC.jpg",
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id31.docx",
+        "details":[
+            {
+                "d1":"Side by side, Linear Inverter",
+                "d2":"601 litres",
+                "d3":"H/W/D (179/91.2/73.8cm)",
+                "d4":"Hygiene Fresh+™, Nano Carbon",
+                "d5":"Moist Balance Crisper, Fresh Balancer",
+                "d6":"Smart Diagnosis, Door-in-Door, Smart ThinQ™"  
+            }
+        ],
+        "price": 2399,
+        "date": "2020",
+        "insurance": "24 months"
+    },
+    {
+        "id": 32,
+        "type": "Refrigerator",
+        "name": "LG Inverter 496L GR-X22MB",
+        "brand": "LG",
+        "madein": "Viet Nam",
+        "img":"/GR-X22MB.jpg",
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id32.docx",
+        "details":[
+            {
+                "d1":"Multi Door, Linear Inverter",
+                "d2":"496 litres",
+                "d3":"H/W/D (178.5/83.5/73.1cm)",
+                "d4":"Hygiene Fresh+™, Nano Carbon",
+                "d5":"Moist Balance Crisper, Fresh Balancer, Door Cooling, Linear Cooling",
+                "d6":"Smart Diagnosis, Door-in-Door, Smart ThinQ™"  
+            }
+        ],
+        "price": 2399,
+        "date": "2021",
+        "insurance": "24 months"
+    },
+    {
+        "id": 33,
+        "type": "Refrigerator",
+        "name": "Toshiba Inverter 407L GR-RT535WE-PMV(06)-MG",
+        "brand": "Toshiba",
+        "madein": "Thailand",
+        "img":"/GR-RT535WE-PMV(06)-MG.jpg",
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id33.docx",
+        "details":[
+            {
+                "d1":"Top Freezer, Origin Inverter",
+                "d2":"407 litres",
+                "d3":"H/W/D (169.5/70/70cm)",
+                "d4":"Air Fall Cooling",
+                "d5":"Origin Fresh",
+                "d6":"PureBio™"  
+            }
+        ],
+        "price": 769,
+        "date": "2021",
+        "insurance": "12 months"
+    },
+    {
+        "id": 34,
+        "type": "Refrigerator",
+        "name": "Toshiba Inverter 513L GR-RS682WE-PMV(06)-MG",
+        "brand": "Toshiba",
+        "madein": "China",
+        "img":"/GR-RS682WE-PMV(06)-MG.jpg",
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id34.docx",
+        "details":[
+            {
+                "d1":"Side by side",
+                "d2":"513 litres",
+                "d3":"H/W/D (176.5/89.5/76cm)",
+                "d4":"Origin Inverter",
+                "d5":"Origin Fresh",
+                "d6":"Stainless steel"  
+            }
+        ],
+        "price": 1349,
+        "date": "2020",
+        "insurance": "18 months"
+    },
+    {
+        "id": 35,
+        "type": "Refrigerator",
+        "name": "Toshiba Inverter 555L GR-AG58VA(X)",
+        "brand": "Toshiba",
+        "madein": "Thailand",
+        "img":"/GR-AG58VA(X).jpg",
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id35.docx",
+        "details":[
+            {
+                "d1":"Top freezer, Duo Inverter",
+                "d2":"555 litres",
+                "d3":"H/W/D (172.5/80.3/73.9cm)",
+                "d4":"Duo Hybrid",
+                "d5":"Ag+ Crisper",
+                "d6":"Stainless steel"  
+            }
+        ],
+        "price": 899,
+        "date": "2019",
+        "insurance": "24 months"
+    },
+    {
+        "id": 36,
+        "type": "Refrigerator",
+        "name": "Toshiba Inverter 511L GR-RF610WE-PGV(22)-XK",
+        "brand": "Toshiba",
+        "madein": "Viet Nam",
+        "img":"/GR-RF610WE-PGV(22)-XK.jpg",
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "catalog":"id36.docx",
+        "details":[
+            {
+                "d1":"Multi Door",
+                "d2":"511 litres",
+                "d3":"H/W/D (189.8/83.3/64.8cm)",
+                "d4":"Origin Inverter",
+                "d5":"Flexible Zone, Moisture Zone",
+                "d6":"Pure Bio"  
+            }
+        ],
+        "price": 1349,
+        "date": "2021",
+        "insurance": "24 months"
+    }
+]

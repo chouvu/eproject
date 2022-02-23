@@ -1,0 +1,14 @@
+angular.module("eproject.refrigerator",[])
+    .controller("refrigeratorController",function($scope,factorygetdata){
+        $scope.product="refrigerator";
+        $scope.icon="snowflake";
+        $scope.productorder="name";
+        factorygetdata.getproducts().then(function(response){
+            $scope.productslist=[];
+            angular.forEach(response.data,function(product){
+                if(product.type=="Refrigerator"){ 
+                    $scope.productslist.push(product);
+                }
+            });
+        });
+    });

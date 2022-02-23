@@ -1,0 +1,26 @@
+[
+    {
+        "banner": "SUMMER IS COMING, ENJOY NEW PROMOTION",
+        "id":1,
+        "desc":"Don't miss the upcoming \"Summer Cool Sales and Hot Price\" from 01/03/2021 to 31/5/2021, a free Skype camera, home theater, color TV or DVD Player on cash purchase of selected Samsung LCD or LG LCD TVs.",
+        "img_path": "/slide1.jpg",
+        "slide":0,
+        "time":4000
+    },
+    {
+        "banner": "NEW BRANCHES",
+        "id":2,
+        "desc":"The upcoming openings of our new branches at Baliwag, Bulacan and Dipolog, Zamboanga del Norte in 01/05/2021. There will be updates about the promotions of various products in the next week. Stay tuned, hope to see you there.",
+        "img_path": "/slide2.jpg",
+        "slide":1,
+        "time":4000
+    },
+    {
+        "banner": "ALWAYS BE ON YOUR SIDE",
+        "id":3,
+        "desc":"It's our pleasure to serve Phillipinos for years, we know what you need and we have always prioritized your satisfication. La Imperial could not be as what it is today without your support, and we know the only way to gain it is being reliable.",
+        "img_path": "/slide3.jpg",
+        "slide":2,
+        "time":4000
+    }
+]

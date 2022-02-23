@@ -1,0 +1,140 @@
+[
+    {
+        "id": 13,
+        "type": "Washer",
+        "name": "Toshiba inverter TWD-BH90W4V (SK)",
+        "brand": "Toshiba",
+        "madein": "China",
+        "img":"/TWD-BH90W4V.jpg",
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "details":[
+            {
+                "d1":"Front-load",
+                "d2":"8kg",
+                "d3":"H/W/D (85/59.5/65cm)",
+                "d4":"Inverter",
+                "d5":"1400rpm",
+                "d6":"Stainless steel"  
+            }
+        ],
+        "price": "1099",
+        "date": "2021",
+        "insurance": "24 months"
+    },
+    {
+        "id": 30,
+        "type": "Refrigerator",
+        "name": "LG Inverter 601L GR-D247JDS",
+        "brand": "LG",
+        "madein": "Thailand",
+        "img":"/GR-D247JDS.jpg",
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "details":[
+            {
+                "d1":"Side by side",
+                "d2":"601 litres",
+                "d3":"H/W/D (178.2/91.2/73.8cm)",
+                "d4":"Linear Inverter",
+                "d5":"Fresh Zone",
+                "d6":"Moist Balance Crisper"  
+            }
+        ],
+        "price": "1469",
+        "date": "2019",
+        "insurance": "18 months"
+    },
+    {
+        "id": 8,
+        "type": "TV",
+        "name": "Smart Tivi TOSHIBA 4K 58 Inch 58U7880VN",
+        "brand": "Toshiba",
+        "madein": "Viet Nam",
+        "img":"/58U7880VN.jpg",  
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "details":[
+            {
+                "d1":"Smart LED Ultra HD 4K",
+                "d2":"4K HDR, Color Re-master PRO, 4K Resolution+, Super Contrast Booster, MPEG",
+                "d3":"ARM+ 800",
+                "d4":"Android",
+                "d5":"Unlimited Entertainment",
+                "d6":"Dolby Digital Plus"
+            }
+        ],    
+        "price": "1049",
+        "date": "2019",
+        "insurance": "24 months"
+    },
+    {
+        "id": 23,
+        "type": "Washer",
+        "name": "Samsung AI AddWash Inverter 12kg WW12TP94DSB/SV",
+        "brand": "Samsung",
+        "madein": "Viet Nam",
+        "img":"/WW12TP94DSB.jpg",
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "details":[
+            {
+                "d1":"Front-load",
+                "d2":"12kg",
+                "d3":"H/W/D (85/60/65cm)",
+                "d4":"AI Dispenser, AI Wash, AI control, Eco Bubble, Digital Inverter, Hygiene Steam, QuickDrive, VRT Plus ™",
+                "d5":"1400rpm",
+                "d6":"Stainless Steel"  
+            }
+        ],
+        "price": "899",
+        "date": "2021",
+        "insurance": "18 months"
+    },
+    {
+        "id": 31,
+        "type": "Refrigerator",
+        "name": "LG Inverter InstaView Door-in-Door 601L GR-X247MC",
+        "brand": "LG",
+        "madein": "Viet Nam",
+        "img":"/GR-X247MC.jpg",
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "details":[
+            {
+                "d1":"Side by side, Linear Inverter",
+                "d2":"601 litres",
+                "d3":"H/W/D (179/91.2/73.8cm)",
+                "d4":"Hygiene Fresh+™, Nano Carbon",
+                "d5":"Moist Balance Crisper, Fresh Balancer",
+                "d6":"Smart Diagnosis, Door-in-Door, Smart ThinQ™"  
+            }
+        ],
+        "price": "2399",
+        "date": "2020",
+        "insurance": "24 months"
+    },
+    {
+        "id": 32,
+        "type": "Refrigerator",
+        "name": "LG Inverter 496L GR-X22MB",
+        "brand": "LG",
+        "madein": "Viet Nam",
+        "img":"/GR-X22MB.jpg",
+        "overview":"A well designed product applied varius new technologies for the best of your life. We promise every feedback is appreciated and will be seriously considered in order to ensure your satisfication. The design fits the modern living style as it provides the ability of controlling in a very short time with all the needed parameters.",  
+        "slogan":"Always be your friend, always be on your side!",
+        "details":[
+            {
+                "d1":"Multi Door, Linear Inverter",
+                "d2":"496 litres",
+                "d3":"H/W/D (178.5/83.5/73.1cm)",
+                "d4":"Hygiene Fresh+™, Nano Carbon",
+                "d5":"Moist Balance Crisper, Fresh Balancer, Door Cooling, Linear Cooling",
+                "d6":"Smart Diagnosis, Door-in-Door, Smart ThinQ™"  
+            }
+        ],
+        "price": "2399",
+        "date": "2021",
+        "insurance": "24 months"
+    }
+]
